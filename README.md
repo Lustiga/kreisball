@@ -6,7 +6,7 @@ Das beste Gruppen-Ballspiel, erfunden von Johannes und Wendelin :sunglasses:
 * 14 Stöcke :golf:
 * 4 Bälle :tennis: (Soft oder Plastik)
 * Mindestens 12 bis maximal 24 Spieler :family:
-* Mindestens einen aber besser mehrere Schitzrichter :cop:
+* Mindestens einen aber besser mehrere Schiedsrichter :cop:
 
 ## Aufbau :wrench:
 1.  Bilde einen kleinen Kreis mit dem Absperrband und den Stöcken
@@ -36,6 +36,6 @@ Das beste Gruppen-Ballspiel, erfunden von Johannes und Wendelin :sunglasses:
   * Vor Spielbeginn sollte sich das Team ausmachen wer der Sprinter oder die Sprinterin ist. :running:
   * Die Sprinterin oder der Sprinter laufen bei Start des Spiels zu den Bällen und versuchen die Bälle in das eigene Feld zu schießen, um einen Vorteil zu erlangen.
   * Natürlich ist die Gefahr auch groß getroffen zu werden.
-4. Schitzrichter pfeift --> Spiel beginnt.
+4. Schiedsrichter pfeift --> Spiel beginnt.
 5. Spieler versuchen andere Teams ins out zu befördern
 6. Das Team welches am Ende übrig bleibt gewinnt die Runde. :crown:
